@@ -21,31 +21,26 @@ Projekt "Biblioteka Online" to aplikacja webowa oparta na frameworku Django, kt�
 
 ## Uruchomienie projektu
 
-1. Sklonuj repozytorium: `git clone https://github.com/twoja_nazwa_uzytkownika/biblioteka-online.git`
+1. Sklonuj repozytorium: `git clone https://github.com/1norahc/online-library.git`
 
 2. Zainstaluj wymagane biblioteki: `pip install -r requirements.txt`
 
-3. Utwórz migracje: 
+3. Utwórz migracje:
 `python manage.py makemigrations`
 `python manage.py migrate`
 
 4. Uruchom serwer deweloperski: `python manage.py runserver`
 
-
 5. Przejdź do przeglądarki i otwórz adres `http://localhost:8000/`.
 
 ## Kontrybucje
 
-Zachęcamy do zgłaszania problemów i propozycji poprawek poprzez tworzenie zgłoszeń [tutaj](https://github.com/twoja_nazwa_uzytkownika/biblioteka-online/issues). 
+Zachęcamy do zgłaszania problemów i propozycji poprawek poprzez tworzenie zgłoszeń [tutaj](https://github.com/twoja_nazwa_uzytkownika/biblioteka-online/issues)
 
 ## Autor
 
-Projekt został stworzony przez [Twoje Imię/Nazwisko].
+Projekt został stworzony przez [Rajan Bor].
 
 ---
 
 Cieszymy się, że zainteresowałeś się naszym projektem! Jeśli masz jakiekolwiek pytania lub sugestie, prosimy o kontakt.
-
-
-
-
