@@ -1,4 +1,4 @@
-Hey there! 👋 I’m <b>1norahc</b>!, a CEO & Software Developer at Boring Code.
+Hey there! 👋 I’m <b>Rajan</b>!, a Founder @ Boring Code.
 
 I create magic with (seemingly) boring code every day. 🚀
 
