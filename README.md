@@ -1,5 +1,5 @@
-Hey there! 👋 I’m <b>Rajan</b>!, a Founder @ Boring Code.
+Did you know that AI..
 
-🔹 I love a good cup of coffee ☕
-
-🔹 My website: [rajanbor.com](https://rajanbor.com)
+ * Founder @ [Boring Code](https://boringcode.com).
+ 
+* Find me: [rajanbor.com](https://rajanbor.com)
