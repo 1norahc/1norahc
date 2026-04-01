@@ -7,6 +7,7 @@ type rajan_bor struct {
     Philosophy  string
     Interests   []string
     TechStack   []Technology
+    Learning    string
 }
 
 func (r *rajan_bor) New() *rajan_bor {
@@ -20,6 +21,7 @@ func (r *rajan_bor) New() *rajan_bor {
         TechStack:  []Technology{
             "Python", "TypeScript", "JavaScript", "Rust",
         },
+        Learning:    "Go, more Rust"
     }
 }
 ```
