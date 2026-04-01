@@ -1,4 +1,5 @@
 # Rajan Bor (1norahc)
+{"hobbyist ai researcher"}
 
 ```go
 type rajan_bor struct {
@@ -9,7 +10,6 @@ type rajan_bor struct {
     X           X
     Company     Company
     Philosophy  string
-    Interests   []string
     TechStack   []Technology
     Learning    string
 }
@@ -23,7 +23,6 @@ func (r *rajan_bor) New() *rajan_bor {
         X:          X{"x.com/rajanbor"},
         Company:    Company{"boringcode.com"},
         Philosophy: "boring code > clever code",
-        Interests:  []string{"hobbyist ai researcher"},
         TechStack:  []Technology{
             "Python", "TypeScript", "JavaScript", "Rust",
         },
