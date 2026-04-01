@@ -1,4 +1,4 @@
-<code>
+```go
 type rajan_bor struct {
     Role        Role
     GitHub      GitHub
@@ -22,4 +22,4 @@ func (r *rajan_bor) New() *rajan_bor {
         },
     }
 }
-</code>
+```
